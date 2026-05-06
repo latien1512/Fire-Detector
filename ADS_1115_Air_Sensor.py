@@ -49,7 +49,7 @@ def calc_rs(v):
 # ================= BASELINE INIT =================
 
 def init_baseline():
-    """Khởi tạo R0 và VOC baseline – chỉ chạy 1 lần"""
+    """Kh?i t?o R0 v� VOC baseline � ch? ch?y 1 l?n"""
     global R0_135, R0_2, voc_filtered, _initialized
 
     if _initialized:
